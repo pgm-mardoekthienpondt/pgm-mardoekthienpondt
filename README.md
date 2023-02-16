@@ -1,4 +1,6 @@
 ### Hi there 👋
+**I'm Mardoek, an intermediate programmer with currently little work experience.**
+
 
 <!--
 **pgm-mardoekthienpondt/pgm-mardoekthienpondt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

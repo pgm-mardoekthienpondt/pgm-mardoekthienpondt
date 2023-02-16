@@ -1,6 +1,7 @@
 ### Hi there 👋
 **I'm Mardoek, an intermediate programmer with currently little work experience.**
-
+At the moment I mainly have experience with HTML, CSS & Javascript, this will be expanded in the upcoming year.
+Over the years I've learnt how to use programs like: VirtualBox, Figma, Word, Excel
 
 <!--
 **pgm-mardoekthienpondt/pgm-mardoekthienpondt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

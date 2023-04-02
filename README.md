@@ -1,7 +1,25 @@
 ### Hi there 👋
 **I'm Mardoek, an intermediate programmer with currently little work experience.**
-At the moment I mainly have experience with HTML, CSS & Javascript, this will be expanded in the upcoming year.
-Over the years I've learnt how to use programs like: VirtualBox, Figma, Word, Excel
+At the moment I mainly have experience with HTML, CSS & Javascript, this will be expanded in the upcoming years.
+
+## Programminglanguages
+- html
+- css
+- Javascript
+- Java
+- C#
+- nunjucks
+- markdown
+## Programming aspects
+- Synchronous / Asynchronous programming
+- Setting up / using API's
+- Databases
+- Validation / Authorisation / Authentication
+- Static Site Generators
+## Apps I am familiar with
+- VirtualBox
+- Figma
+- MS Office (Word, Excel, PP)
 
 <!--
 **pgm-mardoekthienpondt/pgm-mardoekthienpondt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

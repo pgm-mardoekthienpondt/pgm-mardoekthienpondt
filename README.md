@@ -17,6 +17,7 @@ At the moment I mainly have experience with HTML, CSS & Javascript, this will be
 - Validation / Authorisation / Authentication
 - Static Site Generators
 ## Apps I am familiar with
+- VS Code
 - VirtualBox
 - Figma
 - MS Office (Word, Excel, PP)

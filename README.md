@@ -1,6 +1,6 @@
 ### Hi there 👋
 **I'm Mardoek, an intermediate programmer with currently little work experience.**
-At the moment I mainly have experience with HTML, CSS & Javascript, this will be expanded in the upcoming years.
+At the moment I mainly have experience with HTML, CSS & Javascript, this will be expanded in the upcoming years as I look forward to learn more stuff and get better.
 
 ## Programminglanguages
 - html

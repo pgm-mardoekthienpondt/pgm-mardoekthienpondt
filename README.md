@@ -13,12 +13,14 @@ At the moment I mainly have experience with HTML, CSS & Javascript, this will be
 - markdown
 ## Aspects
 - Synchronous / Asynchronous programming
-- Setting up / using API's
-- Databases
+- Setting up / using API's (CRUD)
+- Relational Databases
 - Validation / Authorisation / Authentication
 - Static Site Generators
+- Security
 ## Apps I am familiar with
 - VS Code
+- Docker (DDEV)
 - VirtualBox
 - Figma
 - MS Office (Word, Excel, PP)

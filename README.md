@@ -2,15 +2,16 @@
 **I'm Mardoek, an intermediate programmer with currently little work experience.**
 At the moment I mainly have experience with HTML, CSS & Javascript, this will be expanded in the upcoming years as I look forward to learn more stuff and get better.
 
-## Programminglanguages
+## Languages
 - html
 - css
 - Javascript
+- php
 - Java
 - C#
 - nunjucks
 - markdown
-## Programming aspects
+## Aspects
 - Synchronous / Asynchronous programming
 - Setting up / using API's
 - Databases

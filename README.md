@@ -1,6 +1,8 @@
 ### Hi there 👋
-**I'm Mardoek, an intermediate programmer with currently little work experience.**
-At the moment I mainly have experience with Javascript & PHP, in my free time I'm learning Python so that I can have a better understanding about AI later on.
+**I'm Mardoek, an intermediate programmer with currently little work experience.**<br>
+Currently I mainly have experience with Javascript & PHP. <br>
+In my free time I'm learning Python so that I can have a better understanding about AI later on.
+---
 
 ## Languages
 - html
